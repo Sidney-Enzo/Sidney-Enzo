@@ -1,5 +1,7 @@
 # Hello welcome to Foxys github profile!
 
+Hello im Sidney Enzo (Foxy) i make programs and games sometimes, I have 4 years coding and studing programming
+
 - 👀 I’m interested in find a job and grou up
 - 📓 I’m currently learning C++ Qt
 - 💕 Pronouns: he/him
