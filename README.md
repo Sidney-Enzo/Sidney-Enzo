@@ -6,7 +6,7 @@ Hello im Sidney Enzo (Foxy) i make programs and games sometimes, I have 4 years 
 and studing programming
 
 - 👀 I’m interested in find a job and grou up
-- 📓 I’m currently learning C++ Qt
+- 📓 I’m currently working on an AI
 - 💕 Pronouns: he/him
 - ⚡ Fun fact: I love foxies
 
