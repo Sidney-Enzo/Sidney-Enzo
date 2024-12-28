@@ -1,4 +1,4 @@
-# Hello welcome to Foxys github profile!
+# Hello welcome to my github profile!
 ![Foxy's bunner](banner.png)
 
 ## About me
