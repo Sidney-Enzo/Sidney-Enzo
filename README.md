@@ -2,7 +2,7 @@
 ![Foxy's bunner](banner.png)
 
 ## About me
-Hello im Sidney Enzo (Foxy) im a software engennier how started 3 months ago.
+Hello im Sidney Enzo (Foxy) im a software engennier who started 3 months ago.
 
 - 👀 I’m interested in SQL
 - 📓 I’m currently working on an db
